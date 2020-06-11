@@ -9,3 +9,11 @@
 **Link to work:** [Guido](https://github.com/Danjuma1/Guido)
 
 
+### Day 2: June 10th, 2020 Wednesday
+
+**Today's Progress**: Fixed Issues from yesterday
+
+**Thoughts:** I fixed issues with the Django-tagging module and completed the 2nd model.
+
+**Link to work:** [Guido](https://github.com/Danjuma1/Guido)
+
